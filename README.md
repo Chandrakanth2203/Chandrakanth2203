@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandrakanth Yarlagadda
 - 👀 I’m interested in Artificial Intelligence, Full Stack Development Automation Testing
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on open source MERN stack and Django projects
+- 🌱 I’m currently learning Full Stack Development and Artificial Intelligence
+- 💞️ I’m looking to collaborate on open source MERN stack, Django and AI open source projects
 - 📫 How to reach me chandrakanth.y2203@gmail.com
 
 <!---
